@@ -5,3 +5,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+This code is just for reference,and should not be used in a production setting
